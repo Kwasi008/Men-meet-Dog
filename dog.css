@@ -1,0 +1,26 @@
+body{
+	background: url(https://images.unsplash.com/photo-1520087619250-584c0cbd35e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=46133220eb9fb8b0d0f308e6c2d501ca&auto=format&fit=crop&w=985&q=80);
+	background-size: cover;
+	background-position: center;
+	font-family:dancing script;
+}
+#content{
+	text-align: center;
+	padding-top: 25%;
+	
+}
+
+
+h1,h3{
+	color:brown;
+}
+h1{
+	font-weight:700;
+	font-size: 4em;
+}
+
+hr{
+	width:400px;
+	border-top:1px solid black; 
+	border-bottom:1pz solid rgba(0,0,0,0,2);
+}
